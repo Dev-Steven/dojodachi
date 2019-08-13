@@ -1,0 +1,11 @@
+.stuff
+{
+    border: 1px solid black;
+    width: 500px;
+    height: 450px;
+    display: inline-block;
+    margin: 15px;
+}
+.container{
+    text-align:center;
+}
